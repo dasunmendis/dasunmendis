@@ -21,7 +21,9 @@
 
 - 😃 I look forward to collaborate on impactful projects.
 
-- 💬 Ask Me About Anything [here](https://github.com/dasunmendis/dasunmendis/issues/1) ! I am happy to help.
+- 💬 For any Critical Issue (Technical), raise it [here](https://github.com/dasunmendis/dasunmendis/issues/1) ! I am happy to help.
+
+- 💬 Let's have any Tech Discussion [here](https://github.com/dasunmendis/dasunmendis/discussions).
 
 - 📫 Reach me at **dasunmendis@gmail.com** or **+94775554433**
   
