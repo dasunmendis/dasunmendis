@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/dasunmendis/dasunmendis/blob/images/main/dasun.png">
+    <img width="200" src="https://github.com/dasunmendis/dasunmendis/blob/main/images/dasun.png">
 </p>
 <h1 align="center">Hi 👋, I'm Dasun Mendis</h1>
 <h3 align="center">Lead Developer | Software Consultant (.Net)</h3>
