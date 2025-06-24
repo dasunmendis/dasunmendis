@@ -12,28 +12,22 @@
     <img src="https://img.shields.io/github/stars/dasunmendis?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
     <a href="https://github.com/sponsors/dasunmendis"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
-
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasunmendis" alt="dasunmendis" /></a>
-</p>
-
-<p align="left"> <a href="https://twitter.com/dasunmendis" target="blank"><img src="https://img.shields.io/twitter/follow/dasunmendis?logo=twitter&style=for-the-badge" alt="dasunmendis" /></a> </p>
-
+<br/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently learning **Clean Architecture, ReactJS, AngularJS, htmx**
+- 🌱 I’m currently learning on **Clean Architecture, .Net Core, ReactJS, AngularJS, htmx**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
-
-- 📝 I regularly write articles on [blog link](blog link)
+- 😃 I look forward to collaborate on impactful projects.
 
 - 💬 Ask Me About Anything [here](https://github.com/dasunmendis/dasunmendis/issues/1) ! I am happy to help.
 
 - 📫 Reach me at **dasunmendis@gmail.com** or **+94775554433**
+  
+- 👨‍💻 All of my info are available at [portfolio](https://dasunmendis.github.io)
 
-
+<br/>
 <h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left"> 
 <p>
@@ -71,6 +65,7 @@
 </p>
 </p>
 
+<br/>
 <h2 align="left"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://twitter.com/dasunmendis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dasunmendis" height="30" width="40" /></a>
@@ -80,13 +75,21 @@
 </p>
 
 <hr>
-<p align="center">
+<p align="left">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i>
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dasunmendis&show_icons=true&locale=en&layout=compact" alt="dasunmendis" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunmendis&show_icons=true&locale=en" alt="dasunmendis" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasunmendis&" alt="dasunmendis" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dasunmendis&show_icons=true&locale=en&layout=compact" alt="dasunmendis" />
+</p>
+<p>
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunmendis&show_icons=true&locale=en" alt="dasunmendis" />
+</p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasunmendis" alt="dasunmendis" />
+</p>
+<hr/>
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasunmendis" alt="dasunmendis" /></a>
+</p>
