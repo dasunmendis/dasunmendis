@@ -4,7 +4,14 @@
 <h1 align="center">Hi 👋, I'm Dasun Mendis</h1>
 <h3 align="center">Lead Developer | Software Consultant (.Net)</h3>
 
-![GitHub followers](https://img.shields.io/github/followers/dasunmendis?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/dasunmendis?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=dasunmendis.repoName) <img src="https://komarev.com/ghpvc/?username=dasunmendis" alt="dasunmendis" />
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dasunmendis" alt="dasunmendis" /> •  
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=dasunmendis.repoName" alt="dasunmendis" /> •
+    <a href="https://committers.top/sri_lanka/dasunmendis"><img src="https://committers.top/sri_lanka/dasunmendis"></a> •
+    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/dasunmendis?label=Followers&style=social"> •
+    <img src="https://img.shields.io/github/stars/dasunmendis?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+    <a href="https://github.com/sponsors/dasunmendis"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasunmendis" alt="dasunmendis" /></a>
@@ -22,7 +29,7 @@
 
 - 📝 I regularly write articles on [blog link](blog link)
 
-- 💬 Ask me about **.Net stack**
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/dasunmendis/dasunmendis/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 - 📫 Reach me at **dasunmendis@gmail.com** or **+94775554433**
 
