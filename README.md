@@ -29,7 +29,7 @@
 
 - 📝 I regularly write articles on [blog link](blog link)
 
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/dasunmendis/dasunmendis/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 Ask Me About Anything [here](https://github.com/dasunmendis/dasunmendis/issues/1) ! I am happy to help.
 
 - 📫 Reach me at **dasunmendis@gmail.com** or **+94775554433**
 
